@@ -15,7 +15,7 @@ Your task (whether you choose to accept it or not?) is to manipulate the DOM in 
 * Change the 13th item to be half transparent. (Look this up!)
 * Change the 3rd item's text to say:
 > I say, "Hi!"
-* Change the image below the list to be [this image](http://www.tioxic.com/wp-content/uploads/trex_4.jpg).
+* Change the image below the list to be whatever image you want.
 * Change that image's size to be 300 pixels high.
 * Using HTML, add a new image of your choice below or to the right of the other image and give it a unique id.
 * Now make that image 300 pixels high (with JS)
