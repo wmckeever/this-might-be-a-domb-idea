@@ -28,5 +28,7 @@ myImage2.src ="https://quotefancy.com/media/wallpaper/3840x2160/2000881-Joel-Spo
 
 myImage2.style.height ="300px";
 
+
 let item16 = document.querySelector('#item-16');
+item16.className = "item";
 item16.innerText = "Won't get fooled again.";
